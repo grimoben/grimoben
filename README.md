@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Grimoben 👋
+
+I'm learning Python and building my programming skills.
 
 <!--
 **grimoben/grimoben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Certificate
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/274f58b6-151c-4009-8932-8b100d4061ea.jpeg?v=1793195054)](https://www.boot.dev/certificates/274f58b6-151c-4009-8932-8b100d4061ea)
