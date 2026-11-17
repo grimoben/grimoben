@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ## Certificates
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/aa47ef36-e24a-4090-b676-9ea8bfaa11bb.jpeg?v=1793367182)](https://www.boot.dev/certificates/aa47ef36-e24a-4090-b676-9ea8bfaa11bb)
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/00ee5d09-2d1e-4d55-a11c-17713468dd12.jpeg?v=1793277896)](https://www.boot.dev/certificates/00ee5d09-2d1e-4d55-a11c-17713468dd12)
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/274f58b6-151c-4009-8932-8b100d4061ea.jpeg?v=1793195054)](https://www.boot.dev/certificates/274f58b6-151c-4009-8932-8b100d4061ea)
+[![Boot.dev Introduction to Python Course certificate](blob:https://www.boot.dev/1f4184b1-c320-4af2-8d9d-a773d9fbc84e)](https://www.boot.dev/certificates/274f58b6-151c-4009-8932-8b100d4061ea)
 [![Boot.dev Learn Git Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a929972c-3545-48c9-9c3f-087823ce33b8.jpeg?v=1793195054)](https://www.boot.dev/certificates/a929972c-3545-48c9-9c3f-087823ce33b8)
